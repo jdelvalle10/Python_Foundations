@@ -1,0 +1,3 @@
+The Jupyter team builds several end-user applications that facilitate interactive computing workflows. 
+Click the boxes below to learn how they work and to learn more. 
+If you like one, you can find installation instructions here.
